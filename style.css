@@ -340,3 +340,8 @@ body.preloader-site {
 
 .white
 {color:ghostwhite}
+
+#headshot{
+  max-height: 45vh;
+  max-width: 35vw;
+}
